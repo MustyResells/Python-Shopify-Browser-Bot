@@ -10,6 +10,12 @@ To start the program perform ``python main.py``
 
 ------------------------------
 
+DM me on twitter if you have any questions @JasonPierce26
+Please don't sell this code or use for illegal uses.
+This is in no affiliation to Shopify or any related companies.
+
+------------------------------
+
 To Do
 - Finish navigating / submitting payment
 - Finish submit order
